@@ -1,0 +1,20 @@
+{
+  "name": "Ombre Éveillée",
+  "short_name": "Ombre Éveillée",
+  "description": "Action roguelike dark fantasy — éveille ton pouvoir et commande l’armée des ombres.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07050d",
+  "theme_color": "#07050d",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
